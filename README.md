@@ -1,2 +1,2 @@
 # 2-D-Aquarium
-![alt text](image.png)
+<img src="./image.png" alt="Screen Shot" width="400">
